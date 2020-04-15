@@ -1,0 +1,8 @@
+@import '~@csstools/normalize.css';
+
+$text-color: blue;
+
+body {
+    color: $text-color;
+    user-select: none;
+}
